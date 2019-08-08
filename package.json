@@ -1,0 +1,23 @@
+{
+  "name": "gcp-ikea-lessons",
+  "version": "1.0.0",
+  "description": "node datastore basic project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvardhancap/gcp-ikea-lessons.git"
+  },
+  "author": "piyush vardhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvardhancap/gcp-ikea-lessons/issues"
+  },
+  "homepage": "https://github.com/pvardhancap/gcp-ikea-lessons#readme",
+  "dependencies": {
+    "@google-cloud/datastore": "^4.1.4",
+    "express": "^4.17.1"
+  }
+}
